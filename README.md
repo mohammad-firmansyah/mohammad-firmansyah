@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-firmansyah" alt="mohammad-firmansyah" /></a> </p>
 
-- 🔭 I’m currently working on [AMANAT12](https://play.google.com/store/apps/details?id=ptpn12.amanat.asem)
+- 🔭 I’m currently working on MARATI
 
 - 🌱 I’m currently learning **Android Development**
 
