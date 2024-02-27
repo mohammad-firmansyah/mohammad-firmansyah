@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [firmans.works](firmans.works)
-
 - 💬 Ask me about **laravel**
 
 - 📫 How to reach me **firmansmoh842@gmail.com**
