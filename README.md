@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MARATI
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development and Next.JS**
 
 - 💬 Ask me about **laravel**
 
