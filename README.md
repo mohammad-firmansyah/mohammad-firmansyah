@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm firman</h1>
 <h3 align="center">A Passionate Computer Science Student from Indonesia</h3>
 
-- 🔭 I’m currently working on MARATI
+- 🔭 I’m currently working on MaratiIoT
 
 - 🌱 I’m currently learning **Android Development and Next.JS**
 
