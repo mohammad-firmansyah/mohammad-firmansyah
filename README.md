@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Marati IoT
 
-- 🌱 I’m currently learning **Android Development and Next.JS**
+- 🌱 I’m currently learning **Mobile Development and Next.JS**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **firmansmoh842@gmail.com**
 
