@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bun**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel, Android Development**
 
 <h3 align="left">Connect with me:</h3>
 
