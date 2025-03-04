@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Marati IoT
 
-- 🌱 I’m currently learning **Bun**
+- 🌱 I’m currently learning **Making ui kit library**
 
 - 💬 Ask me about **Javascript, Android Development**
 
