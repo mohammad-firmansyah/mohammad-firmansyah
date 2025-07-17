@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IoT Platform
 
-- 🌱 I’m currently **Crafting bunch of library in kotlin**
+- 🌱 I’m currently learning to **Craft many kotlin things**
 
 - 💬 Ask me about **Javascript, Android Development**
 
